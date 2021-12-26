@@ -17,7 +17,7 @@
 ## <img alt="globe" src="https://cdn.discordapp.com/emojis/795015714989277205.gif?v=1" width="28px"> Connect with me: 
 <p align="left">
 <a href = "https://www.linkedin.com/in/ishanya-yadav-1ab4781b6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIK%2FmqG6hSwyEUD91G8n%2F0g%3D%3D"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href = "https://twitter.com/aynahsi"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+  <a href = " "><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 
 ## 🚀 Languages and Tools:
