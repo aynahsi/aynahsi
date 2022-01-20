@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning web development.
 
-- 📫 How to reach me **yadavishanya@gmail.com**
+- 📫 How to reach me **ishanya23@gmail.com**
 
 - ⚡ Fun fact : i have a weird obsession with cooking shows.
 
