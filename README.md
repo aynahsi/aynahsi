@@ -1,21 +1,21 @@
 
-<h1>Hello World, I'm Ishanya <img src="https://cdn.discordapp.com/emojis/806316125700882472.png?v=1" width="30px"></h1>
+<h1>Hey, I'm Ishanya <img src="https://cdn.discordapp.com/emojis/806316125700882472.png?v=1" width="30px"></h1>
 <h3>A sophomore, navigating through the world of Computer Science!</h3>
 
 
-## <img alt="about me" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width ="35">About Me:
+## About Me:
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="330" height="210" />
 
 - 😄 Pronouns: she/her.
 
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning dsa and web development.
 
 - 📫 How to reach me **ishanya23@gmail.com**
 
 - ⚡ Fun fact : i have a weird obsession with cooking shows.
 
-## <img alt="globe" src="https://cdn.discordapp.com/emojis/795015714989277205.gif?v=1" width="12px"> Connect with me: 
-<p align="left">
+##  Connect with me: 
+
 <a href = "https://www.linkedin.com/in/ishanya-yadav-1ab4781b6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIK%2FmqG6hSwyEUD91G8n%2F0g%3D%3D"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href = " "><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
