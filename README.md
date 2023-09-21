@@ -1,6 +1,6 @@
 
 <h1>Hey, I'm Ishanya <img src="https://cdn.discordapp.com/emojis/806316125700882472.png?v=1" width="30px"></h1>
-<h3>A sophomore, navigating through the world of Computer Science!</h3>
+
 
 
 ## About Me:
