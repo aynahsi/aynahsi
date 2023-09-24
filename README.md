@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **ishanya23@gmail.com**
 
-- ⚡ Fun fact : i have a weird obsession with cooking shows.
-
 ##  Connect with me: 
 
 <a href = "https://www.linkedin.com/in/ishanya-yadav-1ab4781b6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIK%2FmqG6hSwyEUD91G8n%2F0g%3D%3D"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
